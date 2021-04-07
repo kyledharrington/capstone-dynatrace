@@ -35,7 +35,7 @@ See below for further instructions and expectations of this demo and reach out t
 
 1. External integrations and extensions
 
- Setup the below additional Dynatrace integrations to demo in your environment. These are intended to be challenging and highlight how your previous experience will translate to Dynatrace's Sales Engineering team. The below are tiered in challenge level of time and technical ability to implement. Dynatrace documentation links are included. Please note, these are only examples. Feel free to review the Dynatrace [How to Use Dynatrace](https://www.dynatrace.com/support/help/how-to-use-dynatrace/networks/) and [Product News](https://www.dynatrace.com/news/blog/) pages and come up with your own integration ideas for you demo.
+    Setup of the below additional Dynatrace integrations and extensions to setup and demo in your environment. These are intended to be challenging and highlight how your previous experience will translate to Dynatrace's Sales Engineering team. The below are tiered in challenge level of time and technical ability to implement. Dynatrace documentation links are included. Please note, these are only examples. Feel free to review the Dynatrace [How to Use Dynatrace](https://www.dynatrace.com/support/help/how-to-use-dynatrace/networks/) and [Product News](https://www.dynatrace.com/news/blog/) pages and come up with your own integration ideas for you demo.
 
     Requirements
         
