@@ -15,8 +15,7 @@ See below for further instructions and expectations of this demo and reach out t
 1. Deploy a Web Application
 
     Dynatrace has a general purpose application you can leverage for this demo, Easy Travel. Easy travel consists of an nginx front end, java backend and sql db. 
-
-    - [Easy Travel - Java Standalone](https://confluence.dynatrace.com/community/display/DL/easyTravel)
+    
     - [Easy Travel - Docker](https://github.com/Dynatrace/easyTravel-Docker)
 
 1. Alternatively, you can choose to use any other web frontend you have already worked with or built for this demo
