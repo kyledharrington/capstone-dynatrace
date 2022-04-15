@@ -84,8 +84,8 @@ See below for further instructions and expectations of this demo and reach out t
     - Walk through the application service flow you've instrumented with one agent from front end (Real users) to the database calls
     - Highlight 5 data points or features or learned about during setup
     - Explain why these 5 data points are relevant to the audience & business units 
-    - Demo the 3 (or more) integrations you setup
-    - Present one item from your environment under ["diagnostic tools"](https://www.dynatrace.com/support/help/how-to-use-dynatrace/diagnostics/)
+    - Demo the 2 (or more) integrations you setup
+    - Present one item from your environment under ["Profiling and Optimization"](https://www.dynatrace.com/support/help/how-to-use-dynatrace/diagnostics/) or ["Multidimensional Analysis"](https://www.dynatrace.com/support/help/how-to-use-dynatrace/diagnostics/)
     - The over arching theme of your presentation should hinge of the business value the above requirements will provide to your prospect
 
     Additional Notes:
