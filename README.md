@@ -16,7 +16,10 @@ See below for further instructions and expectations of this demo and reach out t
 
     Dynatrace has a general purpose application you can leverage for this demo, Easy Travel. Easy travel consists of an nginx front end, java backend and sql db. 
 
+    - [Easy Travel - Standalone](https://community.dynatrace.com/t5/Getting-started/easyTravel-Documentation-and-Download/td-p/181271)
     - [Easy Travel - Docker](https://github.com/Dynatrace/easyTravel-Docker)
+
+    
 
 1. Alternatively, you can choose to use any other web frontend you have already worked with or built for this demo
 
@@ -92,6 +95,7 @@ See below for further instructions and expectations of this demo and reach out t
 
     - Please Ensure that you have enabled [Real User Monitoring (RUM)](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/setup-and-configuration/web-applications/initial-configuration/configure-dynatrace-real-user-monitoring-to-capture-xhr-actions/) for you web app
     - If you use the standalone version of Easy Travel you may need to [configure custom service detection](https://www.dynatrace.com/support/help/technology-support/application-software/java/configuration-and-analysis/define-custom-java-services/)
+    - Please make sure you disable injection the launcher process / docker container for easy travel. [See related documentation here](https://community.dynatrace.com/t5/Getting-started/easyTravel-Documentation-and-Download/td-p/181271)
     - [Take a look at YouTube for Sample Demos](https://www.youtube.com/results?search_query=dynatrace+demo)
     - Have fun!
     
