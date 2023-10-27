@@ -2,7 +2,7 @@
 
 Thank you for your interest in being a part of the Sales Engineering team at Dynatrace. As next steps we will ask you to setup and demo an environment of your choosing to the Sales Engineering team instrumented by the Dynatrace platform. The goal of this demo is to highlight your technical aptitude by demonstrating the core concepts and feature functionality of the Dynatrace platform and your ability to present value of the Dynatrace platform to prospects across multiple business units in a single presentation.
 
-See below for further instructions and expectations of this demo and reach out to your hiring manager with any questions.
+See below for further instructions and expectations of this demo and reach out to your hiring manager or kyle.harrington@dynatrace.com with any questions.
 
 1. Sign up for a free Dynatrace SaaS trial 
     - https://www.dynatrace.com/trial/
@@ -97,5 +97,6 @@ See below for further instructions and expectations of this demo and reach out t
     - If you use the standalone version of Easy Travel you may need to [configure custom service detection](https://www.dynatrace.com/support/help/technology-support/application-software/java/configuration-and-analysis/define-custom-java-services/)
     - Please make sure you disable injection the launcher process / docker container for easy travel. [See related documentation here](https://community.dynatrace.com/t5/Getting-started/easyTravel-Documentation-and-Download/td-p/181271)
     - [Take a look at YouTube for Sample Demos](https://www.youtube.com/results?search_query=dynatrace+demo)
+    - Feel free to 
     - Have fun!
     
