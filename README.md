@@ -3,6 +3,10 @@
 Thank you for your interest in being a part of the Solutions Engineering team at Dynatrace. As next steps we will ask you to setup and demo an environment of your choosing to the Solutions Engineering team, instrumented by the Dynatrace platform. The goal of this capstone is to showcase your technical skills, the core features of the Dynatrace platform, and your ability to present its value to various business units in one presentation.
 
 See below for further instructions and expectations of this demo and reach out to your hiring manager or kyle.harrington@dynatrace.com with any questions.
+    
+If you are planning on using a Dynatrace Managed install for this demo, please see the [Dynatrace Managed Capstone](/dt-managed/dt-managed-capstone.md) for instructions
+
+---
 
 1. Sign up for a free Dynatrace SaaS trial 
     - https://www.dynatrace.com/trial/
