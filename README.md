@@ -1,4 +1,4 @@
-# So you want to be a Dynatrace Solutions Engineer
+# Solutions Engineering Capstone
 
 Thank you for your interest in being a part of the Solutions Engineering team at Dynatrace. As next steps we will ask you to setup and demo an environment of your choosing to the Solutions Engineering team, instrumented by the Dynatrace platform. The goal of this capstone is to showcase your technical skills, the core features of the Dynatrace platform, and your ability to present its value to various business units in one presentation.
 
